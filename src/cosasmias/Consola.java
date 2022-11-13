@@ -30,12 +30,14 @@ public class Consola {
             }
         } while (incorrecte); // es repeteix mentre la transformació falla
         return -1;
-        
-    /**
-     * lee un entero de teclado. el proceso de lectura se repite mientras el valor no sea un entero
-     * @return el número leído
-     * @lanza IOException
-     */
+
+        /**
+         * lee un entero de teclado. el proceso de lectura se repite mientras el
+         * valor no sea un entero
+         *
+         * @return el número leído
+         * @lanza IOException
+         */
     }
 
 }

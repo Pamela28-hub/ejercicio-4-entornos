@@ -25,4 +25,9 @@ public class NumB10 {
     public String toString() {
     return super.toString(); //To change body of generated methods, choose Tools | Templates.
     }
+    
+    @Override
+    public String toString() {
+    return num; // (error 1)
+    }
 }

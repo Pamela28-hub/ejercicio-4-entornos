@@ -8,7 +8,7 @@ package cambiodebase;
  *
  * @author PAMELA GARCIA
  */
-public class Inicio {
+public class Cambiodebase {
 
     /**
      * @param args the command line arguments
